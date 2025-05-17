@@ -8,3 +8,4 @@ c=a+b;
 printf("the value of C = %d",c);
 getch();
 }
+Samajh me aaya kya !!
