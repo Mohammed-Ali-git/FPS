@@ -1,3 +1,4 @@
+Alex Ka program yee
 #include<stdio.h>
 #include<conio.h>
 void main()
